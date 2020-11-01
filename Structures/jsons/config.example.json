@@ -1,10 +1,10 @@
 {
-    "token": "TOKEN",
-    "prefix": "PREFIXO",
-    "versão": "VERSÃO",
-    "color": "cor",
-    "clientID": "Spotify ID",
-    "clientSecret": "Spotify Secret",
+    "token": "process.env.TOKEN",
+    "prefix": ";;",
+    "versão": "1.0.0",
+    "color": "FF0000",
+    "clientID": "fd30a9e7da5b4fda8a2332a198ddbe5a",
+    "clientSecret": "a017be619f154704882e2738b5c9f2df",
     "hook": {
         "id": "Webhook id",
         "token": "Webhook token"
